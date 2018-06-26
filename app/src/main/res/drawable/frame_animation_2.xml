@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+
+    <item
+        android:drawable="@drawable/xhg_bottle00029"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00030"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00032"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00033"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00034"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00035"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00036"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00037"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00038"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00039"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00040"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00041"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00042"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00043"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00044"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00045"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00046"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00047"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00048"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00049"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00050"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00051"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00052"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00053"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00054"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00055"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00056"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00057"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00058"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00059"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00060"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00061"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00062"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00063"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00064"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00065"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00066"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00067"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00068"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00069"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00070"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00071"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00072"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00073"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00074"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00075"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00076"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00077"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00078"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00079"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00080"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00081"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00082"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00083"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00084"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00085"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00086"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00087"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00088"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00089"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/xhg_bottle00090"
+        android:duration="33" />
+</animation-list>

@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+
+    <item
+        android:drawable="@drawable/daku_01"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_02"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_03"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_04"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_05"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_06"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_07"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_08"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_09"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_10"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_11"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_12"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_13"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_14"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_15"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_16"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_17"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_18"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_19"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_20"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_21"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_22"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_23"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_24"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_25"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_26"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_27"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_28"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_29"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_30"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_31"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_32"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_33"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_34"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_35"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_36"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_37"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_38"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_39"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_40"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_41"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_42"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_43"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_44"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_45"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_46"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_47"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_48"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_49"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_50"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_51"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_52"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_53"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_54"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_55"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_56"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_57"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_58"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_59"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_60"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_61"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_62"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_63"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_64"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_65"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_66"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_67"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_68"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_69"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_70"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_71"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_72"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_73"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_74"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_75"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_76"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_77"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_78"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_79"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_80"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_81"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_82"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_83"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_84"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_85"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_86"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_87"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_88"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_89"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_90"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_91"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_92"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_93"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_94"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_95"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_96"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_97"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_98"
+        android:duration="33" />
+    <item
+        android:drawable="@drawable/daku_99"
+        android:duration="33" />
+</animation-list>
