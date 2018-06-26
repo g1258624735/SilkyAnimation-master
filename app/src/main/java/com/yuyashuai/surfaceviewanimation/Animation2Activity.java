@@ -37,7 +37,7 @@ public class Animation2Activity extends AppCompatActivity {
                 myFrameAnimation.stop();
         });
         myFrameAnimation = new FrameAnimationUtil();
-        Drawable drawable = ContextCompat.getDrawable(this, R.drawable.frame_animation_2);
+        Drawable drawable = ContextCompat.getDrawable(this, R.drawable.frame_animation);
         myFrameAnimation.setAnimationDrawable((AnimationDrawable) drawable);
         img.setImageDrawable(myFrameAnimation.getAnimationDrawable());
         if (myFrameAnimation != null) {

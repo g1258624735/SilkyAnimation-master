@@ -48,7 +48,7 @@ public class Animation3Activity extends AppCompatActivity {
             startGuideAnim();
         });
         btnStop.setOnClickListener(view -> stopGuideAnim());
-        guideImageView.setImageResource(R.drawable.frame_animation_2);
+        guideImageView.setImageResource(R.drawable.frame_animation);
         animationDrawable = (AnimationDrawable) guideImageView.getDrawable();
     }
 

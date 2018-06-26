@@ -30,19 +30,20 @@ public class Animation1Activity extends AppCompatActivity {
         silkyAnimation = new SilkyAnimation.Builder(mSurfaceView)
                 .setCacheCount(5)
                 .setFrameInterval(33)
+                .setSupportInBitmap(true)
                 .setScaleType(SilkyAnimation.SCALE_TYPE_FIT_CENTER)
                 .setRepeatMode(SilkyAnimation.MODE_INFINITE)
                 .build();
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
-                silkyAnimation.start("totol");
+                silkyAnimation.start("daku");
             }
         }, 100);
 
         //如果需要在onCreate方法中直接调用开始，通过handler.postDelayed添加一个时延
         //if you call start() in onCreate method,use handler.postDelayed add a time delay to call it.
-        btnStartFile.setOnClickListener(view -> silkyAnimation.start("totol"));
+        btnStartFile.setOnClickListener(view -> silkyAnimation.start("daku"));
         btnStop.setOnClickListener(view -> silkyAnimation.stop());
         silkyAnimation.setAnimationStateListener(new SilkyAnimation.AnimationStateListener() {
             @Override

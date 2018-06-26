@@ -41,7 +41,7 @@ public class Animation4Activity extends AppCompatActivity {
         });
         btnStop.setOnClickListener(view -> stopGuideAnim());
         ReversibleAnimationDrawable anim = LazyLoadingAnimationDrawable
-                .loadFromResource(getResources(), R.drawable.frame_animation_2);
+                .loadFromResource(getResources(), R.drawable.frame_animation);
         guideImageView.setImageDrawable(anim);
         animationDrawable = (LazyLoadingAnimationDrawable) guideImageView.getDrawable();
     }
