@@ -35,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
         findViewById(R.id.btn_2).setOnClickListener(v -> startActivity(new Intent(MainActivity.this, Animation2Activity.class)));
         findViewById(R.id.btn_3).setOnClickListener(v -> startActivity(new Intent(MainActivity.this, Animation3Activity.class)));
         findViewById(R.id.btn_4).setOnClickListener(v -> startActivity(new Intent(MainActivity.this, Animation4Activity.class)));
+        findViewById(R.id.btn_5).setOnClickListener(v -> startActivity(new Intent(MainActivity.this, Animation5Activity.class)));
         if (mGSon == null) {
             mGSon = new GsonBuilder().disableHtmlEscaping().create();
         }
