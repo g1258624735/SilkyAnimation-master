@@ -1,11 +1,14 @@
-package com.yuyashuai.surfaceviewanimation;
+package com.yuyashuai.surfaceviewanimation.ui;
 
-import android.graphics.drawable.AnimationDrawable;
 import android.os.Bundle;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.Button;
 import android.widget.ImageView;
+
+import com.yuyashuai.surfaceviewanimation.R;
+import com.yuyashuai.surfaceviewanimation.utils.LazyLoadingAnimationDrawable;
+import com.yuyashuai.surfaceviewanimation.utils.ReversibleAnimationDrawable;
 
 /**
  * @author yuyashuai 2016-11-27 15:43:51

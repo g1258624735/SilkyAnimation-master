@@ -1,10 +1,12 @@
-package com.yuyashuai.surfaceviewanimation;
+package com.yuyashuai.surfaceviewanimation.ui;
 
 import android.os.Bundle;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.Button;
 import android.widget.ImageView;
+
+import com.yuyashuai.surfaceviewanimation.R;
 
 import java.io.IOException;
 

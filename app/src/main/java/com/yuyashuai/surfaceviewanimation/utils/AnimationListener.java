@@ -1,4 +1,4 @@
-package com.yuyashuai.surfaceviewanimation;
+package com.yuyashuai.surfaceviewanimation.utils;
 
 import android.graphics.drawable.Drawable;
 

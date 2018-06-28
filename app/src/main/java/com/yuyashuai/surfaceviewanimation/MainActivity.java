@@ -2,22 +2,18 @@ package com.yuyashuai.surfaceviewanimation;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.os.Environment;
-import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
-import android.view.SurfaceView;
-import android.view.View;
-import android.widget.Button;
-import android.widget.ImageView;
-import android.widget.Toast;
 
 import com.alibaba.fastjson.JSON;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import com.yuyashuai.silkyanimation.SilkyAnimation;
-
-import java.io.File;
+import com.yuyashuai.surfaceviewanimation.ui.Animation1Activity;
+import com.yuyashuai.surfaceviewanimation.ui.Animation2Activity;
+import com.yuyashuai.surfaceviewanimation.ui.Animation3Activity;
+import com.yuyashuai.surfaceviewanimation.ui.Animation4Activity;
+import com.yuyashuai.surfaceviewanimation.ui.Animation5Activity;
+import com.yuyashuai.surfaceviewanimation.ui.Example6Activity;
 
 /**
  * 帧动画不同框架播放对比
@@ -36,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
         findViewById(R.id.btn_3).setOnClickListener(v -> startActivity(new Intent(MainActivity.this, Animation3Activity.class)));
         findViewById(R.id.btn_4).setOnClickListener(v -> startActivity(new Intent(MainActivity.this, Animation4Activity.class)));
         findViewById(R.id.btn_5).setOnClickListener(v -> startActivity(new Intent(MainActivity.this, Animation5Activity.class)));
+        findViewById(R.id.btn_6).setOnClickListener(v -> startActivity(new Intent(MainActivity.this, Example6Activity.class)));
         if (mGSon == null) {
             mGSon = new GsonBuilder().disableHtmlEscaping().create();
         }

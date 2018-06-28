@@ -1,4 +1,4 @@
-package com.yuyashuai.surfaceviewanimation;
+package com.yuyashuai.surfaceviewanimation.ui;
 
 import android.os.Bundle;
 import android.os.Debug;
@@ -8,6 +8,7 @@ import android.view.SurfaceView;
 import android.widget.Button;
 
 import com.yuyashuai.silkyanimation.SilkyAnimation;
+import com.yuyashuai.surfaceviewanimation.R;
 
 /**
  * @author gxj 2018-11-27 15:43:51

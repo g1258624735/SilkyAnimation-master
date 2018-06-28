@@ -1,4 +1,4 @@
-package com.yuyashuai.surfaceviewanimation;
+package com.yuyashuai.surfaceviewanimation.ui;
 
 import android.graphics.drawable.AnimationDrawable;
 import android.os.Bundle;
@@ -11,6 +11,7 @@ import android.widget.Button;
 import android.widget.ImageView;
 
 import com.yuyashuai.silkyanimation.SilkyAnimation;
+import com.yuyashuai.surfaceviewanimation.R;
 
 import java.io.File;
 

@@ -1,15 +1,17 @@
-package com.yuyashuai.surfaceviewanimation;
+package com.yuyashuai.surfaceviewanimation.ui;
 
 import android.graphics.Bitmap;
 import android.graphics.drawable.AnimationDrawable;
 import android.graphics.drawable.BitmapDrawable;
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;
-import android.os.Debug;
 import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.Button;
 import android.widget.ImageView;
+
+import com.yuyashuai.surfaceviewanimation.R;
+import com.yuyashuai.surfaceviewanimation.utils.FrameAnimationUtil;
 
 /**
  * @author gxj 2018-6-27 15:43:51

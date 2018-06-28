@@ -1,4 +1,4 @@
-package com.yuyashuai.surfaceviewanimation;
+package com.yuyashuai.surfaceviewanimation.utils;
 
 import android.content.res.Resources;
 import android.content.res.TypedArray;
@@ -12,6 +12,8 @@ import android.support.annotation.DrawableRes;
 import android.util.AttributeSet;
 import android.util.Xml;
 
+
+import com.yuyashuai.surfaceviewanimation.R;
 
 import org.xmlpull.v1.XmlPullParser;
 import org.xmlpull.v1.XmlPullParserException;

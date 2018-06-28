@@ -18,11 +18,12 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:name=".Animation1Activity"/>
-        <activity android:name=".Animation2Activity"/>
-        <activity android:name=".Animation3Activity"/>
-        <activity android:name=".Animation4Activity" />
-        <activity android:name=".Animation5Activity" />
+        <activity android:name=".ui.Animation1Activity"/>
+        <activity android:name=".ui.Animation2Activity"/>
+        <activity android:name=".ui.Animation3Activity"/>
+        <activity android:name=".ui.Animation4Activity" />
+        <activity android:name=".ui.Animation5Activity" />
+        <activity android:name=".ui.Example6Activity" />
     </application>
 
 </manifest>
