@@ -6,13 +6,51 @@
     android:layout_height="match_parent"
     tools:context="com.yuyashuai.surfaceviewanimation.MainActivity">
 
-
-    <pl.droidsonroids.gif.GifImageView
-        android:id="@+id/iv_main"
+    <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_marginBottom="50dp"
-      />
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <pl.droidsonroids.gif.GifImageView
+            android:id="@+id/iv_1"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginBottom="10dp"
+            android:background="@color/colorPrimary"
+            android:scaleType="fitCenter" />
+
+        <pl.droidsonroids.gif.GifImageView
+            android:id="@+id/iv_2"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginBottom="10dp"
+            android:background="@color/colorPrimary"
+            android:scaleType="fitCenter" />
+
+        <pl.droidsonroids.gif.GifImageView
+            android:id="@+id/iv_3"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginBottom="10dp"
+            android:background="@color/colorPrimary"
+            android:scaleType="fitCenter" />
+
+        <pl.droidsonroids.gif.GifImageView
+            android:id="@+id/iv_4"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginBottom="10dp"
+            android:background="@color/colorPrimary"
+            android:scaleType="fitCenter" />
+
+        <pl.droidsonroids.gif.GifImageView
+            android:id="@+id/iv_5"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginBottom="10dp"
+            android:background="@color/colorPrimary"
+            android:scaleType="fitCenter" />
+    </LinearLayout>
 
     <Button
         android:id="@+id/btn_start_file"
